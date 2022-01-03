@@ -1,13 +1,13 @@
 # Array Problems:
 
 ## Finished:
-Two Sum
+[Two Sum](https://leetcode.com/problems/two-sum/)
 
-Best Time to Buy and Sell Stock
+[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
-Contains Duplicate
+[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-Maximum Subarray
+[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ## Not yet started:
 Product of Array Except Self
